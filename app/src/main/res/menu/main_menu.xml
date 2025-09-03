@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/clear_db"
+        android:title="@string/clear_db"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/author"
+        android:title="@string/author"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/logs"
+        android:title="@string/logs"
+        app:showAsAction="never" />
+</menu>

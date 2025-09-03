@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Shopping List App</string>
+    <string name="shop_name">Название магазина</string>
+    <string name="add_shop">Добавить магазин</string>
+    <string name="clear_db">Очистить базу данных</string>
+    <string name="author">Об авторе</string>
+    <string name="author_info">Создано для учебного проекта</string>
+    <string name="logs">Логи SQL</string>
+    <string name="error_empty">Поле не может быть пустым</string>
+    <string name="error_load_shops">Ошибка загрузки магазинов</string>
+    <string name="sql_error">Ошибка SQL: %s</string>
+    <string name="add_product">Добавить продукт</string>
+    <string name="product_name">Название продукта</string>
+    <string name="price">Цена</string>
+    <string name="description">Описание</string>
+    <string name="error_price">Некорректная цена</string>
+    <string name="search">Поиск</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="sort_alpha_asc">Сортировать по алфавиту (А-Я)</string>
+    <string name="sort_alpha_desc">Сортировать по алфавиту (Я-А)</string>
+    <string name="sort_price_asc">Сортировать по цене (возр.)</string>
+    <string name="sort_price_desc">Сортировать по цене (убыв.)</string>
+    <string name="sort_bought">Сортировать по купленным</string>
+</resources>
